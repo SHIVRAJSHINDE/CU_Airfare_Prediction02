@@ -14,6 +14,8 @@
 		6) Register Model
 		7) stage transition
 5) DVC pipeline
+
 6) DVC data Versioning
+	
 7) Docker
 8) CICD Pipeline

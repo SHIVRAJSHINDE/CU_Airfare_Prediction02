@@ -1,0 +1,4 @@
+[core]
+    remote = mylocalremote
+['remote "mylocalremote"']
+    url = C:\Users\SHIVRA~1\AppData\Local\Temp\SHIVRAJONE-01
