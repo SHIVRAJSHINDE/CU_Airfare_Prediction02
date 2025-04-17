@@ -14,7 +14,7 @@ airlineQuartile :
 
 
 trainTestSplit:
-  testSize: 0.25
+  testSize: 0.30
   randomState: 42
   CrossValidation: 5
 
